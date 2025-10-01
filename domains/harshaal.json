@@ -1,0 +1,11 @@
+{
+ "description": "Portfolio-site",
+ "repo": "https://github.com/github-username/github-repository",
+ "owner": {
+     "username": "harshalpendse",
+     "email": "haarshal.kettle542@slmails.com"
+     },
+ "record": {
+     "CNAME": "github-username.github.io"
+     }
+ }
